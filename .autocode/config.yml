@@ -1,0 +1,7 @@
+name: test4
+description: test4
+author:
+  name: Chris Tate
+  email: test@crystal.sh
+  url: 'http://crystalcodegen.com'
+copyright: 2015 Chris Tate
